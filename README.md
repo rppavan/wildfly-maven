@@ -1,5 +1,5 @@
 # wildfly-maven
-Alpine linux with Wildfly, Maven and JDK8.
+Alpine linux-5.4 with Wildfly-10, Maven-3.3.9 and JDK-8.
 To setup a dev environment with this image, use docker-compose to put together different parts of the environment.
 An example `docker-compose.yml` could be
 ```yml
