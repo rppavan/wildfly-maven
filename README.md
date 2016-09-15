@@ -27,3 +27,4 @@ services:
       - "6379:6379"
 ```
 
+[![](https://images.microbadger.com/badges/image/rppavan/wildfly-maven.svg)](https://microbadger.com/images/rppavan/wildfly-maven "Get your own image badge on microbadger.com")
